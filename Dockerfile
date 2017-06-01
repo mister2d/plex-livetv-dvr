@@ -5,7 +5,7 @@ MAINTAINER Stian Larsen, sparklyballs
 # global environment settings
 ENV DEBIAN_FRONTEND="noninteractive" \
 PLEX_DOWNLOAD="https://downloads.plex.tv/plex-media-server" \
-PLEX_INSTALL="https://plex.tv/downloads/latest/1?channel=8&build=linux-ubuntu-x86_64&distro=ubuntu" \
+PLEX_INSTALL="https://downloads.plex.tv/plex-media-server/1.7.2.3878-8088811b8/plexmediaserver_1.7.2.3878-8088811b8_amd64.deb" \
 PLEX_MEDIA_SERVER_APPLICATION_SUPPORT_DIR="/config/Library/Application Support" \
 PLEX_MEDIA_SERVER_HOME="/usr/lib/plexmediaserver" \
 PLEX_MEDIA_SERVER_INFO_DEVICE=docker \
